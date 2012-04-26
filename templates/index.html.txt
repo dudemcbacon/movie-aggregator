@@ -1,7 +1,0 @@
-<html>
-<head>
-	<title>Movie Aggregator! :D</title>
-</head>
-<body>
-<p>Welcome! :D</p>
-</body>
